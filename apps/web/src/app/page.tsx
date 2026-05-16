@@ -96,7 +96,6 @@ export default function LandingPage() {
             </Link>
           </nav>
           <div className="flex items-center gap-4">
-
             <a
               href="https://github.com/Zerith-Labs/ZerithDB"
               target="_blank"
